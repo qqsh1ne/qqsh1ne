@@ -50,7 +50,7 @@
     <a href="https://github.com/qqsh1ne/kekstagram-project">Итоговый проект</a> защищен с отличием
   </li>
   <li>
-    2022 - нынешнее время - Веб-разработка на JavaScript и TypeScript #1
+    2022 - нынешнее время - HTML Academy - Веб-разработка на JavaScript и TypeScript #1
     <ul>
       <li>Верстка компонентов</li>
       <li>Семантическая верстка</li>
