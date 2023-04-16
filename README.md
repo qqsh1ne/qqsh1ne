@@ -63,7 +63,7 @@
     <a href="https://github.com/qqsh1ne/yacht-club-landing">Итоговый проект по HTML & CSS</a> защищен с отличием
   </li>
   <li>
-    2023 - HTML Academy - JavaScript. Архитектура клиентских приложений
+    2023 - нынешнее время - HTML Academy - JavaScript. Архитектура клиентских приложений
     <ul>
       <li>SPA</li>
       <li>MVP</li>
