@@ -134,8 +134,12 @@
 
 <div align="left">
   <a href="https://github.com/qqsh1ne/social-network-react-pet">Пет проект, находящийся в процессе работы. Создается по мере изучения React.js</a>
+  <br>
   <a href="https://github.com/qqsh1ne/big-trip">JavaScript. Архитектура клиентских приложений</a> (в процессе)
+  <br>
   <a href="https://github.com/qqsh1ne/kekstagram-project">JavaScript. Профессиональная разработка веб-интерфейсов</a>
+  <br>
   <a href="https://github.com/qqsh1ne/yacht-club-landing">Веб-разработка на JavaScript и TypeScript #1 (HTML & CSS module)</a>
+  <br>
   <a href="https://github.com/leenwood/frontend-app">Проект, который мы делаем командой по дисциплине "Проектный практикум".</a> Реализуется на React.js
 </div>
