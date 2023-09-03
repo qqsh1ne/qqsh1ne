@@ -9,7 +9,7 @@
 <h2 align="left">:raising_hand: About me</h2>
 
 <p align="left">
-  :computer: Обучаюсь на втором курсе ИРИТ-РтФ УрФУ
+  :computer: Обучаюсь на третьем курсе ИРИТ-РтФ УрФУ
   <br>
   :notebook_with_decorative_cover: Хорошо знаю английский язык (about B2-C1 level)
   <br>
@@ -50,7 +50,7 @@
     <a href="https://github.com/qqsh1ne/kekstagram-project">Итоговый проект</a> защищен с отличием
   </li>
   <li>
-    2022 - нынешнее время - HTML Academy - Веб-разработка на JavaScript и TypeScript #1
+    2022 - 2023 - HTML Academy - Веб-разработка на JavaScript и TypeScript #1
     <ul>
       <li>Верстка компонентов</li>
       <li>Семантическая верстка</li>
@@ -63,12 +63,15 @@
     <a href="https://github.com/qqsh1ne/yacht-club-landing">Итоговый проект по HTML & CSS</a> защищен с отличием
   </li>
   <li>
-    2023 - нынешнее время - HTML Academy - JavaScript. Архитектура клиентских приложений
+    2023 - HTML Academy - JavaScript. Архитектура клиентских приложений
     <ul>
       <li>SPA</li>
       <li>MVP</li>
       <li>ООП</li>
     </ul>
+    <a href="https://assets.htmlacademy.ru/certificates/intensive/575/2221199.pdf?1687121745">Сертификат</a>
+    <br>
+    <a href="https://github.com/qqsh1ne/big-trip">Итоговый проект</a> защищен с отличием
   </li>
 </ul>
 </div>
@@ -138,9 +141,11 @@
 <div align="left">
   <a href="https://github.com/qqsh1ne/social-network-react-pet">Пет проект, находящийся в процессе работы. Создается по мере изучения React.js</a>
   <br>
-  <a href="https://github.com/qqsh1ne/big-trip">JavaScript. Архитектура клиентских приложений</a> (в процессе)
+  <a href="https://github.com/qqsh1ne/big-trip">JavaScript. Архитектура клиентских приложений</a>
   <br>
   <a href="https://github.com/qqsh1ne/kekstagram-project">JavaScript. Профессиональная разработка веб-интерфейсов</a>
   <br>
   <a href="https://github.com/qqsh1ne/yacht-club-landing">Веб-разработка на JavaScript и TypeScript #1 (HTML & CSS module)</a>
+  <br>
+  <a href="https://github.com/qqsh1ne/HTMLAcademy-reactdev-course-practice">Веб-разработка на JavaScript и TypeScript #2 (React & TS module)</a>
 </div>
