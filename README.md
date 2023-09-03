@@ -101,6 +101,9 @@
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="50" alt="javascript logo">
   </a>
+  <a href="https://developer.mozilla.org/ru/docs/Web/TypeScript" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="50" alt="javascript logo">
+  </a>
   <a href="https://nodejs.org/en/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="50" alt="nodejs logo">
   </a>
